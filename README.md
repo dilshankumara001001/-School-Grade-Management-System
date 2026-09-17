@@ -4,13 +4,6 @@ A complete school grade management system built with PHP and MySQL.
 
 Handles students, exams, marks, attendance, fees, and certificates — all in one place.
 
-https://img.shields.io/badge/PHP-8.0+-777BB4?style=flat-square&logo=php&logoColor=white
-https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white
-https://img.shields.io/badge/License-MIT-22c55e?style=flat-square
-https://img.shields.io/badge/PRs-welcome-6366f1?style=flat-square
-
-Features · Installation · Usage · Tech Stack · License
-
 </div>
 📖 Overview
 GradeCalc replaces spreadsheets and manual paperwork with a centralized web platform for schools. It manages the full academic workflow — from enrollment → exams → marks → results → report cards — plus attendance, timetables, fees, and certificates.
@@ -83,7 +76,7 @@ Apache	2.4+
 Steps
 1️⃣ Clone the repository
 bash
-git clone https://github.com/yourusername/gradecalc.git
+(https://github.com/dilshankumara001001/-School-Grade-Management-System)
 2️⃣ Move to web server directory
 bash
 # XAMPP (Windows)
@@ -98,7 +91,6 @@ sql
 CREATE DATABASE grade_calc CHARACTER SET utf8mb4;
 4️⃣ Import the schema
 bash
-mysql -u root -p grade_calc < schema.sql
 mysql -u root -p grade_calc < schema_v2.sql
 💡 Optional: Load demo data (10 records per table)
 
@@ -217,15 +209,9 @@ Open a Pull Request
 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-👤 Author
-Your Name
 
-https://img.shields.io/badge/GitHub-@yourusername-181717?style=flat-square&logo=github
-https://img.shields.io/badge/Email-your.email@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white
 
 <div align="center">
-If this project helped you, consider giving it a ⭐ on GitHub!
 
-Made with ❤️ for educators everywhere
 
 </div> 
