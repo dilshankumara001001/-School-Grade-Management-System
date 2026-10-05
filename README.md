@@ -1,6 +1,6 @@
 🎓 GradeCalc
 <div align="center">
-A complete school grade management system built with PHP and MySQL.
+This school grade management system built with PHP and MySQL.
 
 Handles students, exams, marks, attendance, fees, and certificates — all in one place.
 
