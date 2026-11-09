@@ -1,4 +1,4 @@
-🎓 GradeCalc
+ 🎓 GradeCalc
 <div align="center">
 This school grade management system built with PHP and MySQL.
 
